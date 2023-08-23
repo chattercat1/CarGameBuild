@@ -4,19 +4,19 @@ This game features a small map for you to be able to drive around and collect St
 
 ## Controls
 **WASD Keybinds**
-W - Move Forward
+> W - Move Forward
 
-A - Turn Left
+> A - Turn Left
 
-S - Move Backwards
+> S - Move Backwards
 
-D - Turn Right
+> D - Turn Right
 
 **Arrow Pad**
-Up Arrow - Move Forward
+> Up Arrow - Move Forward
 
-Left Arrow - Turn Left
+> Left Arrow - Turn Left
 
-Down Arrow - Move Backwards
+> Down Arrow - Move Backwards
 
-Right Arrow - Turn Right
+> Right Arrow - Turn Right
